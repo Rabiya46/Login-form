@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(35, 35, 112);
+    color: white;
+}
+
+label{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    font-size: 10px;
+}
